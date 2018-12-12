@@ -1,5 +1,6 @@
 # hello-world
 Just starting out
 
+Making commits
 
-Making commits.
+I'm doig this tutorial.
